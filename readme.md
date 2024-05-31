@@ -1,1 +1,1 @@
-d
+An implementation of a neural network using the Scikit-learn library, using a dataset of California housing prices.
